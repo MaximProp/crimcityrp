@@ -1,1 +1,1 @@
-# crimcityrp
+Правила
